@@ -64,5 +64,6 @@ def run_sarsa():
 
     return success_rate
 
-# run_q_learning()
+
+run_q_learning()
 # run_sarsa()
