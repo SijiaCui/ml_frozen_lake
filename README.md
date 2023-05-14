@@ -1,5 +1,5 @@
 ## 项目结构
-![](.\project.png)
+![](https://github.com/SijiaCui/ml_frozen_lake/blob/main/project.png)
 
 ## 主要工作
 实现Frozen Lake环境下的Q-Learning和Sarsa算法。
